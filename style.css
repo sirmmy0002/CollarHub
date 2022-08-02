@@ -1,0 +1,65 @@
+body{
+    margin: 0%;
+    text-align: center;
+    font-family: 'Ibarra Real Nova', serif;
+}
+hr{
+    border: dotted grey 6px;
+    width: 10%;
+    border-bottom: none;
+    margin: 70px auto;
+
+}
+
+h1{
+    color: aquamarine;
+    font-family: 'Sacramento', cursive;
+    font-size: 70px;
+      
+}
+
+h2{
+    color: gray;
+
+}
+
+
+.toppart{
+ background-color: rgba(216, 246, 80, 0.5);;
+
+}
+
+
+.header{
+    margin-bottom: 6%;
+}
+
+.kenya{
+    font-size: 18px;
+}
+
+img{
+    border-radius: 100%;
+    height: 60px;
+    width: 60px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-bottom: 2%;
+    
+}
+
+.gif{
+    height: 50px;
+
+}
+
+.bottompart{
+    background-color: aquamarine;
+    padding-bottom: 30px;
+}
+
+h4{
+    margin-bottom: 20px;
+}
+
+
